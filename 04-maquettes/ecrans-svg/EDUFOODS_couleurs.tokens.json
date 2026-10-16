@@ -1,0 +1,70 @@
+{
+  "EDUFOODS": {
+    "Marque": {
+      "Principal": {
+        "$type": "color",
+        "$value": "#2BB673",
+        "$description": "primary"
+      },
+      "Principal foncé": {
+        "$type": "color",
+        "$value": "#1E8E57",
+        "$description": "primary-dark"
+      },
+      "Principal clair": {
+        "$type": "color",
+        "$value": "#E3F6EC",
+        "$description": "primary-light"
+      },
+      "Accent": {
+        "$type": "color",
+        "$value": "#FF8A3D",
+        "$description": "accent"
+      },
+      "Accent clair": {
+        "$type": "color",
+        "$value": "#FFEEDF",
+        "$description": "accent-light"
+      }
+    },
+    "Neutres": {
+      "Texte": {
+        "$type": "color",
+        "$value": "#1E2A38",
+        "$description": "text"
+      },
+      "Texte secondaire": {
+        "$type": "color",
+        "$value": "#6B7785",
+        "$description": "text-muted"
+      },
+      "Bordure": {
+        "$type": "color",
+        "$value": "#E4E8E6",
+        "$description": "border"
+      },
+      "Fond": {
+        "$type": "color",
+        "$value": "#F7F9F6",
+        "$description": "background"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "surface"
+      }
+    },
+    "États": {
+      "Alerte": {
+        "$type": "color",
+        "$value": "#E5484D",
+        "$description": "danger"
+      },
+      "Alerte clair": {
+        "$type": "color",
+        "$value": "#FDE8E8",
+        "$description": "danger-light"
+      }
+    }
+  }
+}
